@@ -4,5 +4,8 @@ public class Inicio{
 		
 		ValidadorPrimo vp = new ValidadorPrimo();
 		System.out.println(vp.esPrimo(29));
+		
+		
+		//abc 123 456 7889
 	}
 }
